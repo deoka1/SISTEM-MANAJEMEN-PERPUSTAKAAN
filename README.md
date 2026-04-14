@@ -42,3 +42,55 @@
 cd C:\laragon\www\
 composer create-project laravel/laravel laravel-perpus
 cd laravel-perpus
+
+app/Http/Controllers/AuthController.php
+app/Http/Controllers/DashboardController.php
+app/Http/Controllers/BukuController.php
+app/Http/Controllers/AnggotaController.php
+app/Http/Controllers/PeminjamanController.php
+
+app/Http/Middleware/AuthMiddleware.php
+app/Http/Middleware/AdminMiddleware.php
+
+app/Models/User.php
+app/Models/Buku.php
+app/Models/Anggota.php
+app/Models/Peminjaman.php
+
+bootstrap/app.php  ← ⚠️ TIMPA file yang ada!
+
+database/migrations/*.php
+database/seeders/DatabaseSeeder.php
+
+resources/views/layouts/master.blade.php
+resources/views/components/*.blade.php
+resources/views/auth/login.blade.php
+resources/views/dashboard/index.blade.php
+resources/views/books/*.blade.php
+resources/views/members/*.blade.php
+resources/views/loans/*.blade.php
+
+routes/web.php
+
+APP_NAME=SiPerpus
+APP_URL=http://laravel-perpus.test
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=db_perpus
+DB_USERNAME=root
+DB_PASSWORD=
+
+# Buka phpMyAdmin: http://localhost/phpmyadmin
+# Create database: db_perpus (utf8mb4_unicode_ci)
+
+CREATE DATABASE db_perpus CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+mkdir public\covers
+
+php artisan migrate --seed
+php artisan storage:link  # optional
+
+php artisan serve
+# atau akses: http://laravel-perpus.test
