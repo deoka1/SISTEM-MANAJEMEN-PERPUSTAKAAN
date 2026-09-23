@@ -2,58 +2,70 @@
 
 <br>
 
-# ✨💛 TERIMA KASIH 💛✨
-
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=65&duration=1800&pause=700&color=FFD700&center=true&vCenter=true&width=1000&height=120&lines=TERIMA+KASIH+%F0%9F%99%8F;THANK+YOU+%F0%9F%98%8E;MAKASIH+UDAH+MAMPIR+%F0%9F%AB%B6;SAMPAI+JUMPA+LAGI+%F0%9F%94%A5" alt="TERIMA KASIH">
+# TERIMA KASIH
 
 <br>
 
-## 🫡 TERIMA KASIH SUDAH MAMPIR 🫡
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=70&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&height=140&lines=TERIMA+KASIH;TERIMA+KASIH+SUDAH+MAMPIR;SAMPAI+JUMPA+LAGI" alt="TERIMA KASIH">
 
-### 🌴 Pantun dulu biar nggak kaku 🌴
+<br><br>
 
-> 🚙 Naik jeep ke Gunung Batur,
-> 🌋 Lihat sunrise hati bergetar.
-> 💻 Kalau sudah sampai di sini,
-> ❤️ **Terima kasih sudah mampir!**
+# TERIMA KASIH SUDAH BERKUNJUNG
 
 <br>
 
-> ☕ Ngopi pagi sambil rebahan,
-> 📱 Scroll TikTok sampai lupa waktu.
-> 😎 Kalau README ini bikin senyuman,
-> 🙏 **Makasih banyak buat kamu!**
+## PANTUN DULU SEBELUM PERGI
 
 <br>
 
-> 🏔️ Ke Batur naik kendaraan,
-> 🌅 Sampai atas lihat mentari.
-> 💻 Coding boleh berantakan,
-> 😂 Yang penting website jadi!
+### KE BATUR PAGI-PAGI
+
+### MELIHAT MATAHARI TERBIT
+
+### KALAU SUDAH SAMPAI DI SINI
+
+### TERIMA KASIH SUDAH MAMPIR
+
+<br><br>
+
+### PERGI KE PASAR MEMBELI IKAN
+
+### PULANGNYA MEMBAWA ROTI
+
+### KALAU WEBSITE INI BERKENAN
+
+### TERIMA KASIH DARI DALAM HATI
+
+<br><br>
+
+### NAIK JEEP MENUJU BATUR
+
+### SAMPAI ATAS MELIHAT PEMANDANGAN
+
+### KALAU CODING MASIH HANCUR
+
+### YANG PENTING SUDAH DIKERJAKAN
+
+<br><br>
+
+### DUDUK SANTAI MINUM KOPI
+
+### SAMBIL MELIHAT LANGIT BIRU
+
+### TERIMA KASIH SUDAH DI SINI
+
+### SEMOGA KAMU SUKA DENGAN KARYAKU
+
+<br><br>
+
+# TERIMA KASIH
 
 <br>
 
-> 🐊 Buaya darat makan pepaya,
-> 🍌 Pepayanya jatuh ke lantai.
-> 👀 Kalau kamu sudah sampai sini,
-> 🤝 **Berarti README-ku berhasil mencuri perhatian!**
+## SAMPAI JUMPA DI PROJECT BERIKUTNYA
 
 <br>
 
-# 😂💀
-
-## "KALAU ERROR, JANGAN MENYERAH..."
-
-### ...COBA `CTRL + S` DULU 😭
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=TERIMA%20KASIH%20%F0%9F%99%8F&fontSize=45&fontAlignY=65&animation=twinkling" width="100%">
-
-<br>
-
-### 💛 Sampai jumpa di project berikutnya! 💛
-
-**🚀 Keep Coding • Keep Learning • Keep Laughing 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=TERIMA%20KASIH&fontSize=50&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%">
 
 </div>
