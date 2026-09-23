@@ -2,9 +2,9 @@
 
 <br>
 
-# 🌈 Oka Saya Milka 🗿
+# ❤️ OKA SAYANG MILKA ❤️
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=55&duration=1200&pause=300&color=FF0000&center=true&vCenter=true&width=1100&height=140&lines=OKA+SAYA+MILKA+%F0%9F%98%AD;SELAMAT+DATANG+%F0%9F%91%8B;TERIMA+KASIH+SUDAH+MAMPIR+%F0%9F%97%BF;JANGAN+LUPA+BALIK+LAGI+%F0%9F%A4%A1" alt="Oka Saya Milka">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=60&duration=1200&pause=300&color=FF1493&center=true&vCenter=true&width=1100&height=140&lines=OKA+SAYANG+MILKA+%F0%9F%A5%BA;MILKA+SAYANG+OKA+%F0%9F%98%AD;OKA+PENGEN+CIUM+MILKA+%F0%9F%98%98;MILKA+JANGAN+NGAMBEEK+%F0%9F%97%BF" alt="Oka Sayang Milka">
 
 <br>
 
@@ -12,238 +12,290 @@
 
 <br>
 
-# 🔴 SELAMAT DATANG 🔵
+# 💗 OKA SAYANG MILKA 💗
 
-# 🟢 DI WEBSITE SAYA 🟡
+# 🥺 OKA KANGEN MILKA
 
-# 🟣 OKA SAYA MILKA 🩷
+# 😘 OKA PENGEN CIUM MILKA
+
+# 🫂 OKA PENGEN PELUK MILKA
 
 <br>
 
 ---
 
-# 🌈 PANTUN DULU BOSKU 🌈
+# 🌹 PANTUN UNTUK MILKA 🌹
 
-### 🌋 Pantun 1
+<br>
 
-> Naik jeep menuju Batur  
-> Berangkat pagi membawa bekal  
-> Kalau kamu sudah mampir  
-> Jangan lupa tinggalkan kenal 😭
+### 🌸 Pantun 1
 
-### ☕ Pantun 2
+Pergi ke pasar membeli pepaya,  
+Pulangnya mampir membeli semangka.  
+Banyak orang di dunia ini,  
+Tetap Milka yang Oka suka. ❤️
 
-> Minum kopi di pagi hari  
-> Kopinya panas bikin bahagia  
-> Kalau coding belum selesai  
-> Jangan panik, lanjut saja 🗿
+<br>
 
-### 💻 Pantun 3
+### 🌸 Pantun 2
 
-> Buka laptop dekat jendela  
-> Angin bertiup membawa berita  
-> Kalau program muncul error juga  
-> Jangan menangis, coba lagi saja 😭
+Naik motor pergi ke kota,  
+Berhenti sebentar membeli roti.  
+Kalau Milka ada di depan mata,  
+Oka susah menjaga hati. 🥺❤️
 
-### 🚗 Pantun 4
+<br>
 
-> Naik mobil menuju kota  
-> Berhenti sebentar membeli pepaya  
-> Kalau website sudah dibuka  
-> Terima kasih sudah mampir ke saya 🫡
+### 🌸 Pantun 3
 
-### 🌅 Pantun 5
+Pergi ke pantai melihat senja,  
+Duduk berdua di tepi dermaga.  
+Kalau boleh Oka minta,  
+Mau cium Milka sekarang juga. 😘
 
-> Pergi pagi melihat mentari  
-> Duduk santai di atas batu  
-> Kalau kamu sudah kemari  
-> Jangan lupa datang kembali 🤡
+<br>
 
-### 🍌 Pantun 6
+### 🌸 Pantun 4
 
-> Buah pisang dimakan monyet  
-> Monyet lari mengejar ayam  
-> Kalau README ini terlihat keren  
-> Berarti yang buat memang lumayan 😭
+Ke kebun memetik melati,  
+Melatinya harum sepanjang hari.  
+Milka jangan jauh dari hati,  
+Karena Milka selalu Oka nanti-nanti. 💗
 
-### 🗿 Pantun 7
+<br>
 
-> Pergi ke pasar membeli ketan  
-> Pulangnya membawa buah pepaya  
-> Jangan hanya lihat tampilan  
-> Lihat juga hasil karyanya 🗿
+### 🌸 Pantun 5
 
-### 🌴 Pantun 8
+Naik jeep menuju Batur,  
+Berhenti sebentar melihat awan.  
+Kalau Milka sedang tidur,  
+Semoga mimpiin Oka malam-malaman. 😭❤️
 
-> Jalan-jalan ke tepi pantai  
-> Melihat ombak bersama teman  
-> Kalau coding terasa santai  
-> Berarti error belum berdatangan 💀
+<br>
 
-### 🐊 Pantun 9
+### 🌸 Pantun 6
 
-> Buaya darat makan pepaya  
-> Pepayanya jatuh ke kali  
-> Kalau kamu membaca sampai sini  
-> Berarti kamu belum pergi 😭
+Makan bakso pakai sambal,  
+Minumnya es kelapa muda.  
+Kalau Oka boleh kenal lebih dalam,  
+Boleh nggak Milka jadi milik Oka? 🥺
 
-### 🌧️ Pantun 10
+<br>
 
-> Hujan turun membasahi jalan  
-> Berteduh sebentar di bawah pohon  
-> Kalau coding banyak kesalahan  
-> Jangan lupa cek satu per satu dulu, bosku 😭
+### 🌸 Pantun 7
 
-### 🍜 Pantun 11
+Burung terbang di atas awan,  
+Hinggap sebentar di pohon jati.  
+Bukan Oka tak punya pilihan,  
+Oka cuma memilih Milka dari hati. ❤️
 
-> Makan mie pakai telur  
-> Telurnya dua rasanya nikmat  
-> Kalau program belum terukur  
-> Debugging dulu biar selamat 🗿
+<br>
 
-### 🌋 Pantun 12
+### 🌸 Pantun 8
 
-> Ke Gunung Batur melihat sunrise  
-> Duduk santai sambil minum kopi  
-> Kalau website sudah terlihat nice  
-> Jangan lupa kasih apresiasi 😎
+Pergi ke sawah membawa cangkul,  
+Pulangnya membawa buah pepaya.  
+Kalau Milka sedang ngambek betul,  
+Oka siap merayu sampai ketawa. 🗿❤️
 
-### 🐔 Pantun 13
+<br>
 
-> Ayam jago berkokok pagi  
-> Kucing tidur di atas meja  
-> Kalau tugas belum selesai lagi  
-> Jangan menyerah, lanjut bekerja 😭
+### 🌸 Pantun 9
 
-### 🎮 Pantun 14
+Beli bunga warna merah,  
+Disimpan rapi di atas meja.  
+Kalau Milka sedang marah,  
+Oka tetap sayang selamanya. 🥺🌹
 
-> Main game sampai lupa waktu  
-> Tiba-tiba tugas belum dikerjakan  
-> Kalau mau jadi programmer tentu  
-> Coding harus terus dilanjutkan 🤡
+<br>
 
-### 🌴 Pantun 15
+### 🌸 Pantun 10
 
-> Jalan-jalan ke Pulau Dewata  
-> Jangan lupa membawa kamera  
-> Kalau kamu suka website kita  
-> Silakan mampir kapan saja 🫡
+Pergi ke Bali melihat pura,  
+Jangan lupa membeli oleh-oleh.  
+Kalau Oka boleh berkata jujur,  
+Oka kangen Milka boleh? 😭❤️
 
-### ☕ Pantun 16
-
-> Kopi hitam rasanya pahit  
-> Diminum pagi sambil bersantai  
-> Kalau coding terasa sulit  
-> Jangan langsung menyerah, santai 😭
-
-### 🐟 Pantun 17
-
-> Pergi memancing mendapat ikan  
-> Ikannya besar dibawa pulang  
-> Kalau ada error jangan dibiarkan  
-> Cari penyebab lalu perbaiki sekarang 💻
-
-### 🚀 Pantun 18
-
-> Naik roket menuju bulan  
-> Sampai di sana bertemu alien  
-> Kalau project sudah berjalan  
-> Hati senang coding pun keren 🚀
-
-### 🌈 Pantun 19
-
-> Pelangi muncul setelah hujan  
-> Warnanya indah di atas awan  
-> Kalau sudah selesai pengerjaan  
-> Jangan lupa simpan hasil pekerjaan 🌈
-
-### 🏁 Pantun 20
-
-> Naik mobil menuju kota  
-> Jalannya lurus melewati taman  
-> Kalau kamu sudah sampai di halaman kita  
-> Terima kasih sudah berkunjung, teman ❤️
+<br>
 
 ---
 
-<br>
-
-# 💻 CODING TIME 💻
-
-> Coding malam ditemani kopi  
-> Laptop menyala sampai pagi  
-> Kalau error datang menghampiri  
-> Tenang saja, debugging lagi 😭
+# 💋 PESAN DARI OKA UNTUK MILKA
 
 <br>
 
-# 🗿 MOTTO SAYA
+# ❤️ MILKA ITU SAYANGNYA OKA
 
-### 💻 CODING DULU
+# 🥺 JANGAN SERING NGAMBEK YA
 
-### ☕ KOPI KEMUDIAN
+# 🫂 KALAU KANGEN BILANG
 
-### 😭 ERROR BELAKANGAN
+# 😘 KALAU MAU CIUM JUGA BILANG
 
-### 🗿 PANIK JANGAN
+# 💋 KARENA OKA PENGEN CIUM MILKA
+
+# ❤️‍🔥 DAN PENGEN PELUK MILKA ERAT-ERAT
+
+<br>
 
 ---
 
+# 🌈 PANTUN LAGI BUAT MILKA 🌈
+
 <br>
 
-# 🚗💨💨💨
+### 💐
+
+Ke pasar pagi membeli ketan,  
+Ketan dibawa memakai nampan.  
+Kalau Milka butuh perhatian,  
+Oka siap memberikan sepanjang zaman. ❤️
+
+<br>
+
+### 💐
+
+Ada kucing mengejar tikus,  
+Tikus lari masuk ke taman.  
+Kalau Milka sedang tersenyum manis,  
+Oka langsung kehilangan pertahanan. 😭❤️
+
+<br>
+
+### 💐
+
+Makan nasi dengan ikan,  
+Ikan dimakan bersama sambal.  
+Oka bukan orang romantis kebangetan,  
+Tapi kalau Milka, Oka bisa maksimal. 🗿❤️
+
+<br>
+
+### 💐
+
+Pergi ke toko membeli pita,  
+Pitanya warna merah muda.  
+Oka cuma punya satu cinta,  
+Dan cinta itu buat Milka. 💗
+
+<br>
+
+### 💐
+
+Jalan-jalan ke Kota Batu,  
+Pulang membawa bunga melati.  
+Oka boleh punya banyak teman,  
+Tapi Milka tetap di dalam hati. ❤️
+
+<br>
+
+---
+
+# 🥺 MILKA, DENGERIN YA...
+
+<br>
+
+## Oka mungkin kadang ngeselin 🗿
+
+## Oka mungkin kadang bikin Milka kesel 😭
+
+## Oka mungkin kadang bikin Milka ngambek 🤡
+
+## TAPI...
+
+# ❤️ OKA SAYANG MILKA
+
+# ❤️ OKA KANGEN MILKA
+
+# ❤️ OKA PENGEN KETEMU MILKA
+
+# 😘 OKA PENGEN CIUM MILKA
+
+# 🫂 OKA PENGEN PELUK MILKA
+
+<br>
+
+---
+
+# 🚗💨 OKA OTW KE MILKA
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 
-# 🚗💨 WUUUSSSSSSSSSSSSSSSS
+# 🚗💨💨💨
 
-# 🗿 MOBILNYA NGEGAS DULU
+# TUNGGU OKA MILKA 🗿
 
-# 💀 TAKUT KETINGGALAN
+# JANGAN PERGI DULU 😭
+
+<br>
 
 ---
 
-<br>
-
-# 🤨 MASIH DI SINI?
-
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=45&duration=900&pause=200&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=MASIH+BACA%3F+%F0%9F%97%BF;TERIMA+KASIH+%F0%9F%98%AD;JANGAN+LUPA+BALIK+LAGI+%F0%9F%A4%A1;SAMPAI+JUMPA+LAGI+%F0%9F%91%8B" alt="Masih Baca">
+# 💌 SURAT KECIL DARI OKA
 
 <br>
 
-# 🗿 KAMU KUAT BANGET
+> Milka,
+>
+> Kalau dunia ini punya banyak hal indah,
+> Oka tetap memilih satu hal yang paling Oka suka:
+>
+> **MILKA. ❤️**
+>
+> Kalau boleh memilih tempat untuk pulang,
+> Oka mau pulang ke kamu.
+>
+> Kalau boleh memilih seseorang untuk disayang,
+> Oka mau pilih kamu.
+>
+> Dan kalau boleh minta satu hal...
+>
+> **Oka pengen ketemu Milka, peluk Milka,
+> terus cium Milka. 😘❤️**
+>
+> — **Oka untuk Milka** 💗
 
-# 😭 BACA README SAMPAI SEJAUH INI
-
-# 🤡 PADAHAL CUMA README
+<br>
 
 ---
 
-<br>
+# 🌷 PANTUN PENUTUP 🌷
 
-# ❤️ TERIMA KASIH ❤️
-
-# 💛 TERIMA KASIH 💛
-
-# 💚 TERIMA KASIH 💚
-
-# 💙 TERIMA KASIH 💙
-
-# 💜 TERIMA KASIH 💜
-
-# 🩷 TERIMA KASIH 🩷
+Pergi ke pasar membeli duku,  
+Dukunya manis dimakan berdua.  
+Kalau Milka membaca ini dari Oka untukmu,  
+Semoga Milka tersenyum bahagia. ❤️
 
 <br>
 
-# 🌈 OKA SAYA MILKA 🌈
-
-### 💻 Keep Coding
-### ☕ Keep Learning
-### 🗿 Keep Fighting
-### 🚀 Keep Going
+Pergi ke pantai melihat karang,  
+Duduk santai ditemani senja.  
+Oka mungkin banyak kurang,  
+Tapi sayang Oka ke Milka luar biasa. 🥺❤️
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,FF7F00,FFFF00,00FF00,00FFFF,0000FF,8B00FF&height=180&section=footer&text=OKA%20SAYA%20MILKA&fontSize=45&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%">
+Naik sepeda ke rumah paman,  
+Pulangnya membawa buah naga.  
+Oka sayang Milka bukan main-main,  
+Semoga Milka tetap bersama Oka. ❤️‍🩹
+
+<br>
+
+---
+
+# ❤️ OKA ❤️ MILKA
+
+# 🥺 SAYANG MILKA
+
+# 😘 PENGEN CIUM MILKA
+
+# 🫂 PENGEN PELUK MILKA
+
+# 💗 JANGAN PERGI JAUH-JAUH YA
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493,FF69B4,FFB6C1&height=180&section=footer&text=OKA%20SAYANG%20MILKA&fontSize=50&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%">
 
 </div>
